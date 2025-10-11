@@ -11,12 +11,9 @@
 ### Log updates for the latest versions
 <details><summary>Tanks Blitz 12.4.0.14</summary>
 
-- Emil I Draugr
-- Indian-Pz. Patroller
-- Nemesis the Reckoner
-- Ob. 140 Chthonide-Alpha
-- Ob. 140 Chthonide-Omega
-- The Steel Witch
+- ASTRON Rex Substance
+- Vickers CR Crabby
+- Wz.66T Cthulhu
 
 </details>
 
@@ -24,9 +21,12 @@
 
 <details><summary>WoT Blitz 11.13.0.6</summary>
 
-- ASTRON Rex Substance
-- Vickers CR Crabby
-- Wz.66T Cthulhu
+- Emil I Draugr
+- Indian-Pz. Patroller
+- Nemesis the Reckoner
+- Ob. 140 Chthonide-Alpha
+- Ob. 140 Chthonide-Omega
+- The Steel Witch
 
 </details>
 

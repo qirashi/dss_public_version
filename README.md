@@ -11,12 +11,9 @@
 ### Лог обновлений за последние версии
 <details><summary>Tanks Blitz 12.4.0.14</summary>
 
-- Emil I Draugr
-- Indien-Pz. Patroller
-- Nemesis the Reckoner
-- Об. 140 Хтонид-Альфа
-- Об. 140 Хтонид-Омега
-- Стальная Ведьма
+- ASTRON Rex Субстанция
+- Vickers CR Крабрый
+- Wz.66T Ктулху
 
 </details>
 
@@ -24,9 +21,12 @@
 
 <details><summary>WoT Blitz 11.13.0.6</summary>
 
-- ASTRON Rex Субстанция
-- Vickers CR Крабрый
-- Wz.66T Ктулху
+- Emil I Draugr
+- Indien-Pz. Patroller
+- Nemesis the Reckoner
+- Об. 140 Хтонид-Альфа
+- Об. 140 Хтонид-Омега
+- Стальная Ведьма
 
 </details>
 

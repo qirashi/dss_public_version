@@ -1,15 +1,39 @@
-# Dava Skin Swither
-### Описание
-* Dava Skin Swither Version: 1.1.0.1
-* Tanks Blitz [LESTA] Version: 12.4.0.14
-* WoT Blitz [WG] Version: 11.13.0.6
+# Dava Skin Swither [RU] | [EN](README_EN.md)
+### Версия мода
+> * Dava Skin Swither Version: 1.1.0.1
+> * Tanks Blitz [LESTA] Version: 12.4.0.14
+> * WoT Blitz [WG] Version: 11.13.0.6
 
 ![](.info/media/2.png)
 
-### [Инструкции | Instructions]
-| Russian                                                      | English                                                      |
-|--------------------------------------------------------------|--------------------------------------------------------------|
-| [УСТАНОВКА НА ПК](.info/local/INSTALLATION_PC_RU.md)         | [INSTALLATION ON A PC](.info/local/INSTALLATION_PC_EN.md)    |
-| [УСТАНОВКА НА АНДРОИД](.info/local/INSTALLATION_AND_RU.md)   | [INSTALLATION ON ANDROID](.info/local/INSTALLATION_AND_EN.md)|
-| [YAML Info](.info/local/YAML.YAML)                           |                                                              |
-| [XML Info](.info/local/XML.XML)                              |                                                              |
+- - -
+
+### Лог обновлений за последние версии
+<details><summary>Tanks Blitz 12.4.0.14</summary>
+
+- Emil I Draugr
+- Indien-Pz. Patroller
+- Nemesis the Reckoner
+- Об. 140 Хтонид-Альфа
+- Об. 140 Хтонид-Омега
+- Стальная Ведьма
+
+</details>
+
+- - -
+
+<details><summary>WoT Blitz 11.13.0.6</summary>
+
+- ASTRON Rex Субстанция
+- Vickers CR Крабрый
+- Wz.66T Ктулху
+
+</details>
+
+- - -
+
+### Инструкции
+
+[УСТАНОВКА НА ПК](.info/local/INSTALLATION_PC_RU.md)
+
+[УСТАНОВКА НА АНДРОИД](.info/local/INSTALLATION_AND_RU.md)

@@ -1,7 +1,7 @@
 # Dava Skin Swither [RU] | [EN](README_EN.md)
 ### Версия мода
 > * Dava Skin Swither Version: 1.1.0.1
-> * Tanks Blitz [LESTA] Version: 12.4.0.14
+> * Tanks Blitz [LESTA] Version: 12.4.0.16
 > * WoT Blitz [WG] Version: 11.13.0.6
 
 ![](.info/media/2.png)
@@ -9,6 +9,14 @@
 - - -
 
 ### Лог обновлений за последние версии
+<details><summary>Tanks Blitz 12.4.0.14</summary>
+
+- M-III-Yoh Ящер
+- Tiger-Maus Скример
+- Об. 590 Блицеслав
+
+</details>
+
 <details><summary>Tanks Blitz 12.4.0.14</summary>
 
 - ASTRON Rex Субстанция

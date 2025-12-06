@@ -19,24 +19,20 @@
 
 </details>
 
-<details><summary>Tanks Blitz 12.4.0.14</summary>
-
-- M-III-Yoh Ящер
-- Tiger-Maus Скример
-- Об. 590 Блицеслав
-
-</details>
-
 - - -
 
-<details><summary>WoT Blitz 11.13.0.6</summary>
+<details><summary>WoT Blitz 11.15.0.3</summary>
 
-- Emil I Draugr
-- Indien-Pz. Patroller
-- Nemesis the Reckoner
-- Об. 140 Хтонид-Альфа
-- Об. 140 Хтонид-Омега
-- Стальная Ведьма
+- AC Sterope Cicada
+- AMX M4 54 Cuirassier
+- E 100 Long Haul
+- FV215b 183 Sand Crawler
+- Felice Dust Storm
+- GSOR the Nessie
+- KJPZ Jäger Herbstwald
+- M48 Lucille's Retribution
+- T32 Georgia Tracker
+- VK 100.01 Hearthlight
 
 </details>
 

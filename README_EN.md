@@ -11,32 +11,28 @@
 ### Log updates for the latest versions
 <details><summary>Tanks Blitz 12.6.0.16</summary>
 
-- The Wizard of 50TP Tyszkiewicza
-- The Oracle of Lourdes Charms
-- Dzt-159 Nebula
-- Gunner Projet Murat
-- Polar Explorer MS-11
-
-</details>
-
-<details><summary>Tanks Blitz 12.4.0.14</summary>
-
-- M-III-Yoh Lizard
-- Tiger-Maus Screamer
-- Ob. 590 Blitz
+- 50TP Tyszkiewicza Волшебник
+- Char Lourd Оракул
+- DZT-159 Небула
+- Projet Murat Канонир
+- МС-11 Полярник
 
 </details>
 
 - - -
 
-<details><summary>WoT Blitz 11.13.0.6</summary>
+<details><summary>WoT Blitz 11.15.0.3</summary>
 
-- Emil I Draugr
-- Indian-Pz. Patroller
-- Nemesis the Reckoner
-- Ob. 140 Chthonide-Alpha
-- Ob. 140 Chthonide-Omega
-- The Steel Witch
+- AC Sterope Cicada
+- AMX M4 54 Cuirassier
+- E 100 Long Haul
+- FV215b 183 Sand Crawler
+- Felice Dust Storm
+- GSOR the Nessie
+- KJPZ Jäger Herbstwald
+- M48 Lucille's Retribution
+- T32 Georgia Tracker
+- VK 100.01 Hearthlight
 
 </details>
 

@@ -2,7 +2,7 @@
 ### Версия мода
 > * Dava Skin Swither Version: 1.1.0.1
 > * Tanks Blitz [LESTA] Version: 12.6.1.18
-> * WoT Blitz [WG] Version: 11.15.0.3
+> * WoT Blitz [WG] Version: 11.16.0.3
 
 ![](.info/media/2.png)
 
@@ -22,9 +22,17 @@
 
 <details><summary>WoT Blitz 11.15.0.3</summary>
 
-- E 100 Long Haul %(camo_num)
-- T49 Nitro Nova
-- Waffen F1.0 Goldstreifen
+- AC Highlander Area 51
+- AC Highlander Fairway
+- AC Ocelote Stinger
+- AC Pleione Arete
+- AC Rebelde Harusame
+- AC Wedge Luchadora
+- Kpz 70 Ракетный Batterie
+- Murat Chantier
+- Tiger-Maus Поджигатель
+- WZ-120G FT Chi Tu
+- КВ-2 Рокот
 
 </details>
 

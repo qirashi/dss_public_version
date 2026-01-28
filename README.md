@@ -1,8 +1,8 @@
 # Dava Skin Swither [RU] | [EN](README_EN.md)
 ### Версия мода
 > * Dava Skin Swither Version: 1.1.0.1
-> * Tanks Blitz [LESTA] Version: 12.6.1.18
-> * WoT Blitz [WG] Version: 11.16.0.3
+> * Tanks Blitz [LESTA] Version: 26.2.0.4
+> * WoT Blitz [WG] Version: 11.16.1.5
 
 ![](.info/media/2.png)
 

@@ -1,38 +1,26 @@
 # Dava Skin Swither [RU] | [EN](README_EN.md)
 ### Версия мода
-> * Dava Skin Swither Version: 1.1.0.1
-> * Tanks Blitz [LESTA] Version: 26.2.0.4
-> * WoT Blitz [WG] Version: 11.16.1.5
+> * Dava Skin Swither Version: 1.2.0.0
+> * Tanks Blitz [LESTA] Version: 26.2.1.8
+> * WoT Blitz [WG] Version: 11.16.1.7
 
 ![](.info/media/2.png)
 
 - - -
 
 ### Лог обновлений за последние версии
-<details><summary>Tanks Blitz 12.6.1.18</summary>
+<details><summary>Tanks Blitz 26.2.1.8</summary>
 
-- Centurion I Сурок
-- FV4202 Злоумышленник
-- Sokol Ясный
-- Ударник Прославленный
+- Defender Координатор
+- СУ-101 Подтянутый
 
 </details>
 
 - - -
 
-<details><summary>WoT Blitz 11.15.0.3</summary>
+<details><summary>WoT Blitz 11.16.1.7</summary>
 
-- AC Highlander Area 51
-- AC Highlander Fairway
-- AC Ocelote Stinger
-- AC Pleione Arete
-- AC Rebelde Harusame
-- AC Wedge Luchadora
-- Kpz 70 Ракетный Batterie
-- Murat Chantier
-- Tiger-Maus Поджигатель
-- WZ-120G FT Chi Tu
-- КВ-2 Рокот
+- WZ-132 Баочжан
 
 </details>
 

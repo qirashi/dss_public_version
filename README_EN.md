@@ -2,7 +2,7 @@
 ### Mod version
 > * Dava Skin Swither Version: 1.2.0.0
 > * Tanks Blitz [LESTA] Version: 26.4.0.4
-> * WoT Blitz [WG] Version: 11.17.0.11
+> * WoT Blitz [WG] Version: 11.18.0.7
 
 ![](.info/media/2.png)
 
@@ -23,9 +23,21 @@
 
 - - -
 
-<details><summary>WoT Blitz 11.16.1.7</summary>
+<details><summary>WoT Blitz 11.18.0.7</summary>
 
-- WZ-132 Баочжан
+- 60TP Blade Wing
+- AC Forger Sand-Rock
+- AC Forger Volcano
+- AC Ocelote Cuauhtli
+- AC Rebelde az-tech
+- BZT-70 Deep Space %(camo_num)
+- Caernarvon Palikari
+- Centurion I Rainfield
+- MBT-B Dragon Screw
+- Rhm. Pzw. Atlantis
+- VK 45.02 (A)ugmentor
+- Куст «Маруся»
+- Т-44 Окопный налётчик
 
 </details>
 

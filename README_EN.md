@@ -11,13 +11,15 @@
 ### Log updates for the latest versions
 <details><summary>Tanks Blitz 26.4.0.4</summary>
 
-- Lorraine 50 t Внеземной
-- Progetto 46 Угрожающий
-- Progetto M35 mod. 46 Угрожающий
-- Tiger (P) Органикус
-- ИС-2-II Фотон
-- ИС-3-II Квант
-- СТ-II Бозон
+- T 55A Походный
+- Wz.40 Проходчик
+- Wz.44 Старатель
+- Wz.57D Бурильщик
+- Wz.58T Копатель
+- Wz.60 Корчеватель
+- Wz.70 Бульдозер
+- Об. 259А Артист
+- Т-44 Поющий
 
 </details>
 

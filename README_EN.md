@@ -10,9 +10,9 @@
 ### Log updates for the latest versions
 <details><summary>Tanks Blitz 26.6.0.15</summary>
 
-- T29 Перерождённый
-- ИСУ-152К Элементаль
-- Кратос Карающий
+- AMX M4 54 Снабженец
+- Alligator Шипастый
+- Tortoise Шеф
 
 </details>
 
